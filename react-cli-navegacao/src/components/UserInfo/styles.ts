@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import {IUserInfoStyle} from "./types"
+
 export const Container = styled.div`
     display: flex;
     flex-direction: row;
@@ -21,7 +23,7 @@ export const NameText = styled.div`
     line-height:25px;
     color: #ffffff;
 `
-export const Progress = styled.div`
+export const Progress = styled.div<IUserInfoStyle>`
     width: 180px;
     height: 6px;
     background-color: #ffffff;
