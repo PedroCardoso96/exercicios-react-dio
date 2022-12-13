@@ -1,9 +1,15 @@
-import { Container } from "./styles";
+import Button from "./components/Button"
+import Input from "./components/Input"
+
+import { Container, Content } from "./styles";
 
 function App() {
   return (
     <Container>
-      Olá
+      <Content>
+        <Input />
+        <Button />
+      </Content>
     </Container>
   );
 }
