@@ -1,7 +1,9 @@
 {
   "users": [
-      {   "id": 1, "name": "Pedro", "email": "pedrohfsc96@gmail.com", "senha": "123456789"    },
-      {   "id": 2, "name": "Rodney", "email": "rodneysilva@hotmail.com", "senha": "123456789"    }
+      {   "id": 1, "name": "Pedro", "email": "pedrohfsc96@gmail.com", "senha": "123456"    },
+      {   "id": 2, "name": "Rodney", "email": "rodneysilva@hotmail.com", "senha": "123456"    },
+      {   "id": 3, "name": "Alfredo", "email": "alfredocosta@yahoo.com", "senha": "123456"    },
+      {   "id": 3, "name": "Gabriela", "email": "gabriela30@gmail.com", "senha": "123456"    }
       
   ]
 }

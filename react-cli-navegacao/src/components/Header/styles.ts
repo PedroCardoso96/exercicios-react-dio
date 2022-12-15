@@ -80,6 +80,8 @@ export const Logo = styled.img`
     height: 100%;
     max-height: 32px;
 
+    cursor: pointer;
+
 `
 
 export const Input = styled.input`

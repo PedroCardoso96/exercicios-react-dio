@@ -33,17 +33,6 @@ export const TitleHighlights = styled.h3`
     margin-bottom: 24px;
 `
 
-export const TextContent = styled.p`
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weigth: 400;
-    font-size: 16px;
-    width: 420px;
-    margin-bottom: 20px;
-    line-heigth: 22px;
-
-    color: #ffffff;
-`
 
 export const Column = styled.div<IColumn>`
     flex: ${({flex}) => flex};

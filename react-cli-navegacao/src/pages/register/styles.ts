@@ -20,11 +20,21 @@ export const Column = styled.div`
     flex: 1;
 `
 export const Row = styled.div`
+    
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
+
+    p{
+        font-family: 'Open Sans';
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weigth: 700;
+        font-size: 14px;
+        line-height: 19px;
+    }
 
 `
 
@@ -57,18 +67,8 @@ export const SubTitleLogin = styled.p`
     width: 320px;
     margin-bottom: 35px;
     line-height: 25px;
-
 `
-export const EsqueciText = styled.p`
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weigth: 700;
-    font-size: 14px;
-    line-height: 19px;
 
-    color: #e5e044;
-
-`
 export const CriarText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
@@ -77,6 +77,11 @@ export const CriarText = styled.p`
     line-height: 19px;
 
     color: #e23dd74;
-    cursor: pointer;
 
 `
+export const GreenText = styled.p`
+    cursor: pointer;
+    color: #23dd7a;
+`
+
+
