@@ -1,3 +1,12 @@
+Projeto interface DIO do bootcamp Orange Tech+ usando React. Nele aprendemos uma forma mais rápida e pratica de começar um projeto com o React CLI e navegar pelas paginas, foi utilizado a biblioteca styled-components para estilização dos componentes e com os React Hooks damos mais funcionalidade aos componentes. Iniciamos o projeto com Javascript mas depois convertemos ele em Typescript adicionando assim mais recursos e ferramentas ao projeto.
+
+
+![home](https://user-images.githubusercontent.com/50971161/207931245-3c7ba3f5-b0b4-4262-aac6-160c13442846.png)
+![register](https://user-images.githubusercontent.com/50971161/207931249-1ab54bab-df49-4139-b0b4-1be97082110d.png)
+![login](https://user-images.githubusercontent.com/50971161/207931252-df311a2f-8aa1-42e6-b924-772b74504035.png)
+![feed](https://user-images.githubusercontent.com/50971161/207931253-eed58c24-a728-46b0-a856-0077b3ef0470.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +48,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
