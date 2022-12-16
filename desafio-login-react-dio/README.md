@@ -1,3 +1,8 @@
+
+Desafio React DIO de implementar uma tela de Login com validação usando Typescript
+
+![image](https://user-images.githubusercontent.com/50971161/208146847-751e1cd8-06c7-4d4b-8d94-bd78da899b49.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
